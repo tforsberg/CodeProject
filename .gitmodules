@@ -7,3 +7,6 @@
 [submodule "widgets-in-mvc"]
 	path = widgets-in-mvc
 	url = https://git.codeproject.com/tforsberg/widgets-in-mvc
+[submodule "repository-pattern-and-unit-of"]
+	path = repository-pattern-and-unit-of
+	url = https://git.codeproject.com/tforsberg/repository-pattern-and-unit-of
