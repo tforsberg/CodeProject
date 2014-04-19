@@ -1,3 +1,9 @@
 [submodule "mvc-application-with-mongodb-database"]
 	path = mvc-application-with-mongodb-database
 	url = https://git.codeproject.com/tforsberg/mvc-application-with-mongodb-database
+[submodule "chess-program-in-c"]
+	path = chess-program-in-c
+	url = https://git.codeproject.com/tforsberg/chess-program-in-c
+[submodule "widgets-in-mvc"]
+	path = widgets-in-mvc
+	url = https://git.codeproject.com/tforsberg/widgets-in-mvc

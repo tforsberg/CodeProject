@@ -1,0 +1,6 @@
+https://git.codeproject.com/tforsberg/mvc-application-with-mongodb-database
+
+https://git.codeproject.com/tforsberg/chess-program-in-c
+
+https://git.codeproject.com/tforsberg/widgets-in-mvc
+
