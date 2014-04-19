@@ -10,3 +10,6 @@
 [submodule "repository-pattern-and-unit-of"]
 	path = repository-pattern-and-unit-of
 	url = https://git.codeproject.com/tforsberg/repository-pattern-and-unit-of
+[submodule "extending-html-with-angularjs-directives"]
+	path = extending-html-with-angularjs-directives
+	url = https://git.codeproject.com/tforsberg/extending-html-with-angularjs-directives
